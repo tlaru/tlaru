@@ -7,7 +7,6 @@
 👾 crypto
 💹 trading
 📈 investing
-@gt2laru
 
 <!---
 tlaru/tlaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
