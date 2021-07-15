@@ -1,5 +1,4 @@
-₿ 🇮🇹🇺🇸 dual citizen
-₿ 🏎 motorsports
+🇮🇹🇺🇸 dual citizen & 🏎 motorsports & ₿ 
 
 
 
