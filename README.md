@@ -1,12 +1,7 @@
-🇮🇹🇺🇸 dual citizen
-🏎 motorsports
-🏍 99’ Ducati Monster 750 Dark “🏴‍☠️”
-🚘 12’ Porsche 958.1 Cayenne Base “VW Bus”
-🧰 MIS
-👨🏻‍💻 software engineering 
-👾 crypto
-💹 trading
-📈 investing
+₿ 🇮🇹🇺🇸 dual citizen
+₿ 🏎 motorsports
+
+
 
 <!---
 tlaru/tlaru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
